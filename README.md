@@ -1,5 +1,5 @@
-# Project Euler; Scala Solutions
-This is a little library to test your [Project Euler](https://projecteuler.net) solutions, using Scala. I put it
+# Check Your Project Euler Solutions
+This is a little library to test your [Project Euler](https://projecteuler.net) solutions using Scala. I put it
 together a few years ago but think someone might still find it useful.
 
 Its main feature is that you can run Specs2 to check your answers. It will only test the problems that you
